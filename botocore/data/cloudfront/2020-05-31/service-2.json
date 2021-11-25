@@ -3655,7 +3655,7 @@
         },
         "Comment":{
           "shape":"CommentType",
-          "documentation":"<p>An optional comment to describe the distribution. The comment cannot be longer than 128 characters.</p>"
+          "documentation":"<p>A comment to describe the distribution. The comment cannot be longer than 128 characters.</p>"
         },
         "Logging":{
           "shape":"LoggingConfig",
